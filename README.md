@@ -17,13 +17,6 @@ This project is a food delivery time prediction system that leverages machine le
 - XGBoost
 
 
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/PrinceNasit/food-delivery-time-prediction.git
-
 ## Run the code
 
 streamlit run app.py
